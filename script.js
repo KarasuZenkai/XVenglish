@@ -17,7 +17,7 @@ const elements = {
 };
 
 const address = "7658 Olive Tree Ln, Highland, CA 92335";
-const whatsappPhone = "525532533605";
+const whatsappPhone = "19099650189";
 
 function openWhatsApp() {
   const name = elements.guestName.value.trim() || "Guest";
